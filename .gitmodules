@@ -5,3 +5,6 @@
 [submodule "SMNlmec"]
 	path = SMNlmec
 	url = https://github.com/kelinzhong/smnlmec
+[submodule "autoMR"]
+	path = autoMR
+	url = https://github.com/kelinzhong/automr
